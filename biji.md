@@ -8,7 +8,7 @@ git 常用命令整理
 4、
 
 初始化配置
-我的生效了的命令：s
+我的生效了的命令：
 
 初始化：
 ①、ssh-keygen -t rsa -C "superliji163@youremail.com"    //在本地创建ssh key
