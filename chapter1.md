@@ -51,7 +51,6 @@
  React.render(<Hello name="world" title="Mr"></Hello>,document.getElementById('contair));
 
 
-
 ![](/assets/react01.png)
 
 
